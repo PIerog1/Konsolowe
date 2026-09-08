@@ -1,0 +1,5 @@
+1.typ,nazwe,wartosc
+2.Deklaracja to poinformowanie programu, że tworzymy zmienną o określonym typie i nazwie. Inicjalizacja to przypisanie zmiennej pierwszej wartości. 
+3. do ceny double bo ma miejsca po przecinku, int bo liczba uczniów nie będzie miała nic po przecinku
+4.
+5.'a' ti pojedynczy znak typu char a "a" to łanuch znakow typu string

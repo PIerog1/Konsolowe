@@ -1,0 +1,8 @@
+﻿Console.WriteLine("Podaj Imie");
+var  imie = Console.ReadLine();
+Console.WriteLine("Podaj rok urodzenia");
+string rokUrodzenia = Console.ReadLine();
+var obecnyRok = 2026;
+int rokurodzenia = int.Parse(rokUrodzenia);
+int lata = obecnyRok - rokurodzenia;
+Console.WriteLine($"{imie} masz {lata} lat");

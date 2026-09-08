@@ -1,0 +1,5 @@
+1. serce programu od tego momentu zaczyna się program, od góry do dołu
+2.ConsoleWriteLine przechodzi do następnej linijki a ConsoleWrite nie
+3.zwraca zawartość wpisana przez użytkownika,tekst
+4. Kompilacja polega na przetworzeniu kodu który napisał użytkownik na kod maszynowy żeby zrozumial go procesor i go wykonał
+5. ;
